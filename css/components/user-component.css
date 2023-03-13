@@ -37,6 +37,10 @@
   border-radius: 25px;
 }
 
+.chats-screen .user-component__title {
+  margin-bottom: 7px;
+}
+
 .user-component__title--not-bold {
   font-weight: 400;
 }
